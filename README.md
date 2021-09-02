@@ -13,3 +13,4 @@ En este repositorio se encuentran los dos notebooks correspondientes a los dos e
 "Aprendizaje No Supervisado". 
 
 * Página web de la materia: https://sites.google.com/view/aprendizaje-no-supervisado/ 
+* Repositorio GitHub de la materia: https://github.com/DiploDatos/AprendizajeNOSupervisado 
